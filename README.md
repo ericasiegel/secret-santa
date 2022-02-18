@@ -1,1 +1,3 @@
-# secret-santa
+# Secret Santa
+
+## App in development
